@@ -1,0 +1,77 @@
+html {
+  background-color: black;
+}
+
+.App {
+  height: 100vh;
+  padding-top: 100px;
+  padding-inline: 25vw;
+  padding-bottom: 100px;
+  background-color: #6699CC;
+}
+
+.tabsClass {
+  min-height: 6vh;
+  border-style: solid;
+  border-width:1px;
+  border-top: none;
+  border-radius: 10px;
+  border-color: white;
+}
+
+.btn-new {
+  background-color: grey;
+  color: white;
+  border-radius: 10px;
+}
+
+.itemText {
+  padding: 0;
+}
+
+.itemss {
+  
+}
+
+.overall{
+  
+}
+
+.list {
+  height: 50vh;
+}
+
+.enter {
+
+}
+
+.btn-icon {
+  /* Since your button is a block button, otherwise use inline-flex */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tab {
+  border-color: black;
+}
+
+.ghg {
+  margin-bottom: auto;
+}
+
+.dd {
+  background-color: white;
+  align-content: end;
+}
+
+.list-tabs {
+  padding: 20px;
+  font-size:20px;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 7px 7px 7px 7px;
+  border-color: lightgray;
+  border-top: none;
+}
